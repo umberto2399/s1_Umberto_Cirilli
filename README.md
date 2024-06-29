@@ -2,6 +2,9 @@
 
 This repository contains a Streamlit application for predicting customer churn in a telco dataset. The app includes functionalities for filtering and displaying data, providing insights and visualizations, predicting churn for new customers, and making city-based predictions with clustering analysis.
 
+[LINK TO SEE IMPROVEMENTS](https://drive.google.com/drive/folders/1aXjUMYx8VTlIlIYtPOmRzY9vSETQMPgq?usp=drive_link)
+ 
+
 ## Repository Structure
 
 - **app.py**: The main Streamlit application script.
